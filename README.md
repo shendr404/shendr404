@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-💼 I’m currently working System Administrator
+💼 I’m currently working System Administrator<br/>
 🌱 I’m currently learning GO, DevOps
 
 
@@ -17,8 +17,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shendr404&limit=5&theme=omni&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=shendr404&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
