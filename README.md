@@ -14,6 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=shendr404&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shendr404&theme=omni&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shendr404&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shendr404&limit=5&theme=omni&combine_all_yearly_contributions=true)
