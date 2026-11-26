@@ -77,22 +77,8 @@ I work as a system administrator with a focus on network infrastructure, Linux a
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shendr404&amp;show_icons=true&amp;theme=github_dark&amp;hide_border=true&amp;include_all_commits=true" />
-  <img height="165" alt="GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=shendr404&amp;show_icons=true&amp;theme=default&amp;hide_border=true&amp;include_all_commits=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=shendr404&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" />
-  <img height="165" alt="Languages in public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shendr404&amp;layout=compact&amp;theme=default&amp;hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://nirzak-streak-stats.vercel.app/?user=shendr404&amp;theme=github-dark-blue&amp;hide_border=true" />
-  <img alt="Contribution streak" src="https://nirzak-streak-stats.vercel.app/?user=shendr404&amp;theme=default&amp;hide_border=true" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shendr404&amp;theme=github-dark&amp;hide_border=true" />
-  <img width="100%" alt="Recent contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=shendr404&amp;theme=github-light&amp;hide_border=true" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+  <img width="100%" alt="GitHub activity and public repository languages" src="./assets/activity-light.svg" />
 </picture>
 
 </div>
